@@ -4,3 +4,5 @@ Please do not hand in this project as is and please do not copy paste code from 
 
 This project is registered under the GPL License.
 Credit to Chai for working on the project with me.
+
+An explanation for the readme file might be added in the future. If I have time. If someone wants to add explanations to the file he's welcome.
