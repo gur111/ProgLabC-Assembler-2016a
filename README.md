@@ -6,3 +6,6 @@ This project is registered under the GPL License.
 Credit to Chai for working on the project with me.
 
 An explanation for the readme file might be added in the future. If I have time. If someone wants to add explanations to the file he's welcome.
+
+We've created the project with some documentations. Most is incomplete but it might be helpful to go though.
+https://drive.google.com/drive/folders/0B_Cgymha8UlJejJIRnd2NVdnMXc?usp=sharing
